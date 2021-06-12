@@ -2,7 +2,7 @@ package DataTypesAndVariables.Exercise;
 
 import java.util.Scanner;
 
-public class PrintPartOfTheASCIITable {
+public class P05_PrintPartOfTheASCIITable {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 

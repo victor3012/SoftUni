@@ -2,7 +2,7 @@ package DataTypesAndVariables.Exercise;
 
 import java.util.Scanner;
 
-public class TriplesOfLatinLetters {
+public class P06_TriplesOfLatinLetters {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int input = Integer.parseInt(scanner.nextLine());

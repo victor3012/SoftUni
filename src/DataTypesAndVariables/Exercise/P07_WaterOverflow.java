@@ -2,7 +2,7 @@ package DataTypesAndVariables.Exercise;
 
 import java.util.Scanner;
 
-public class WaterOverflow {
+public class P07_WaterOverflow {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int n = Integer.parseInt(scanner.nextLine());

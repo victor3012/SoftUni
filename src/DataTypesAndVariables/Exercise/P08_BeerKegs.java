@@ -2,7 +2,7 @@ package DataTypesAndVariables.Exercise;
 
 import java.util.Scanner;
 
-public class BeerKegs {
+public class P08_BeerKegs {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int n = Integer.parseInt(scanner.nextLine());
