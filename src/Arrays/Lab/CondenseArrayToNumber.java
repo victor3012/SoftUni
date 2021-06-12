@@ -9,7 +9,7 @@ public class CondenseArrayToNumber {
         int[] inputArray = Arrays.stream(scanner.nextLine().split(" "))
                 .mapToInt(x -> Integer.parseInt(x)).toArray();
         if ( inputArray.length == 1 ){
-            System.out.println(inputArray[0] + " is already condensed to number");
+            System.out.println(inputArray[0]);
             return;
         }
         for (int i = 0; i < inputArray.length - 1; i++) {
