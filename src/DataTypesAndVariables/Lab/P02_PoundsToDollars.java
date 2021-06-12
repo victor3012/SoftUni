@@ -2,7 +2,7 @@ package DataTypesAndVariables.Lab;
 
 import java.util.Scanner;
 
-public class PoundsToDollars {
+public class P02_PoundsToDollars {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         double input = Double.parseDouble(scanner.nextLine());

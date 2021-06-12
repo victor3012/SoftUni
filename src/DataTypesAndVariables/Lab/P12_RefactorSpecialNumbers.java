@@ -2,7 +2,7 @@ package DataTypesAndVariables.Lab;
 
 import java.util.Scanner;
 
-public class RefactorSpecialNumbers {
+public class P12_RefactorSpecialNumbers {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int input = Integer.parseInt(scanner.nextLine());

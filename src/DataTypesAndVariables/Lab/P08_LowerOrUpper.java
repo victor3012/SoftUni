@@ -2,7 +2,7 @@ package DataTypesAndVariables.Lab;
 
 import java.util.Scanner;
 
-public class LowerOrUpper {
+public class P08_LowerOrUpper {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         char inputChar = scanner.nextLine().charAt(0);

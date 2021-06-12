@@ -2,7 +2,7 @@ package DataTypesAndVariables.Lab;
 
 import java.util.Scanner;
 
-public class CenturiesToMinutes {
+public class P09_CenturiesToMinutes {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int centuries = Integer.parseInt(scanner.nextLine());
