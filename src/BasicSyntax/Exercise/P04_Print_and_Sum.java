@@ -2,7 +2,7 @@ package BasicSyntax.Exercise;
 
 import java.util.Scanner;
 
-public class Print_and_Sum {
+public class P04_Print_and_Sum {
     public static void main(String[] args) {
 
         Scanner scanner = new Scanner(System.in);

@@ -1,7 +1,7 @@
 package BasicSyntax.Exercise;
 import java.util.Scanner;
 
-public class Vacation {
+public class P03_Vacation {
     public static void main(String[] args) {
 
         Scanner scanner = new Scanner(System.in);

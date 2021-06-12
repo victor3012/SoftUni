@@ -2,7 +2,7 @@ package BasicSyntax.Exercise;
 
 import java.util.Scanner;
 
-public class Division {
+public class P02_Division {
     public static void main(String[] args) {
 
         Scanner scanner = new Scanner(System.in);

@@ -2,7 +2,7 @@ package BasicSyntax.Exercise;
 
 import java.util.Scanner;
 
-public class VendingMachine {
+public class P07_VendingMachine {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 

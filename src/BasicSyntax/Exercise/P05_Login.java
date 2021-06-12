@@ -2,7 +2,7 @@ package BasicSyntax.Exercise;
 
 import java.util.Scanner;
 
-public class Login {
+public class P05_Login {
     public static void main(String[] args) {
 
         Scanner scanner = new Scanner(System.in);

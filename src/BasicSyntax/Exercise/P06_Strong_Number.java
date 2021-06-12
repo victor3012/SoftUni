@@ -2,7 +2,7 @@ package BasicSyntax.Exercise;
 
 import java.util.Scanner;
 
-public class Strong_Number {
+public class P06_Strong_Number {
     public static void main(String[] args) {
 
         Scanner scanner = new Scanner(System.in);
