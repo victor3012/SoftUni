@@ -2,7 +2,7 @@ package BasicSyntax.Lab;
 
 import java.util.Scanner;
 
-public class Back_In_30_Minutes {
+public class P04_Back_In_30_Minutes {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 

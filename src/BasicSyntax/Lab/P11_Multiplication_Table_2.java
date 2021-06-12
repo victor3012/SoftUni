@@ -2,7 +2,7 @@ package BasicSyntax.Lab;
 
 import java.util.Scanner;
 
-public class Multiplication_Table_2 {
+public class P11_Multiplication_Table_2 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 

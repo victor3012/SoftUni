@@ -2,7 +2,7 @@ package BasicSyntax.Lab;
 
 import java.util.Scanner;
 
-public class Month_Printer {
+public class P05_Month_Printer {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 

@@ -2,7 +2,7 @@ package BasicSyntax.Lab;
 
 import java.util.Scanner;
 
-public class Refactor_Sum_of_Odd_Numbers {
+public class P13_Refactor_Sum_of_Odd_Numbers {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);

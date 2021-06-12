@@ -2,7 +2,7 @@ package BasicSyntax.Lab;
 
 import java.util.Scanner;
 
-public class Sum_of_Odd_Numbers {
+public class P09_Sum_of_Odd_Numbers {
     public static void main(String[] args) {
 
         Scanner scanner = new Scanner(System.in);

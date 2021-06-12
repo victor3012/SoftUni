@@ -2,7 +2,7 @@ package BasicSyntax.Lab;
 
 import java.util.Scanner;
 
-public class Even_Number {
+public class P12_Even_Number {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 

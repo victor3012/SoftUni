@@ -2,7 +2,7 @@ package BasicSyntax.Lab;
 
 import java.util.Scanner;
 
-public class Foreign_Languages {
+public class P06_Foreign_Languages {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         String country = scanner.nextLine();

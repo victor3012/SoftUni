@@ -2,7 +2,7 @@ package BasicSyntax.Lab;
 
 import java.util.Scanner;
 
-public class Theatre_Promotion {
+public class P07_Theatre_Promotion {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
