@@ -3,7 +3,7 @@ package Arrays.Lab;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class CondenseArrayToNumber {
+public class P07_CondenseArrayToNumber {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int[] inputArray = Arrays.stream(scanner.nextLine().split(" "))

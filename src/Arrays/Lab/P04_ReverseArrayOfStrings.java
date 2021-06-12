@@ -2,7 +2,7 @@ package Arrays.Lab;
 
 import java.util.Scanner;
 
-public class ReverseArrayOfStrings {
+public class P04_ReverseArrayOfStrings {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         String[] splits = scanner.nextLine().split(" ");

@@ -2,7 +2,7 @@ package Arrays.Lab;
 
 import java.util.Scanner;
 
-public class DayOfWeek {
+public class P01_DayOfWeek {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int input = Integer.parseInt(scanner.nextLine());

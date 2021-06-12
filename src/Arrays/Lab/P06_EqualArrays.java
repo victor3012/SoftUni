@@ -3,7 +3,7 @@ package Arrays.Lab;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class EqualArrays {
+public class P06_EqualArrays {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
