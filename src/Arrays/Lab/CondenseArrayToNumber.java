@@ -8,16 +8,17 @@ public class CondenseArrayToNumber {
         Scanner scanner = new Scanner(System.in);
         int[] inputArray = Arrays.stream(scanner.nextLine().split(" "))
                 .mapToInt(x -> Integer.parseInt(x)).toArray();
-
-        int[] temp;
-        for (int i = 0; i < inputArray.length - 1; i++) {
-            temp = new int[inputArray.length -1];
-            for (int j = 0; j < inputArray.length - 1; j++) {
-                temp[j] = inputArray[j] + inputArray[j+1];
-            }
-            inputArray = temp;
+        if ( inputArray.length == 1 ){
+            System.out.println(inputArray[0] + " is already condensed to number");
+            return;
         }
-        // TODO! It isn't finished
+        for (int i = 0; i < inputArray.length - 1; i++) {
+            int n = inputArray.length - 1;
+            for (int j = 0; j < n; j++) {
+                inputArray[j] = inputArray[j] + inputArray[j+1];
+            }
+            n--;
+        }
         System.out.println(inputArray[0]);
     }
 }
