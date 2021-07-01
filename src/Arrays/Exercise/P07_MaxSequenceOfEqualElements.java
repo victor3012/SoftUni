@@ -8,7 +8,6 @@ public class P07_MaxSequenceOfEqualElements {
         Scanner scanner = new Scanner(System.in);
         int[] inputArray = Arrays.stream(scanner.nextLine().split(" "))
                 .mapToInt(x -> Integer.parseInt(x)).toArray();
-
         int number = 0;
         int timesMet = Integer.MIN_VALUE;
         for (int i = 0; i < inputArray.length; i++) {
